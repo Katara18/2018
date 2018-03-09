@@ -59,9 +59,9 @@ Prenom : Ulrich Louange
 Compte Github : https://github.com/ulrichanani
 
 ## Groupe 8
-Nom :
-Prenom :
-Compte Github :
+Nom :ASSOGBA
+Prenom :Laurel
+Compte Github :https://github.com/Katara18
 ---
 Nom :
 Prenom :
